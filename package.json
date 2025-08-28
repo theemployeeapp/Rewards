@@ -1,0 +1,23 @@
+{
+  "name": "rewards",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Rewards Module",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.12",
+    "@types/react-native": "^0.72.8",
+    "typescript": "^5.9.2"
+  }
+}
