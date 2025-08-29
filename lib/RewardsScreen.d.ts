@@ -1,3 +1,2 @@
-declare const RewardsScreen: () => import("react/jsx-runtime").JSX.Element;
+declare const RewardsScreen: () => any;
 export default RewardsScreen;
-//# sourceMappingURL=RewardsScreen.d.ts.map
